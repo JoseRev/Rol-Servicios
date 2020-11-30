@@ -1,0 +1,51 @@
+#Relacion de Oficiales con anotacion de servicios y comisiones
+ 
+Oficiales:
+-   Nombre: Cap. 1/o. I.C.E. Berenice Flores Mancilla
+    Cuartel: []
+    Comisiones: []
+    Vacaciones: []
+    Servicios del mes anterior entresemana: 0
+    Servicios del mes anterior fin de semana: 0 
+    
+-   Nombre: Cap. 1/o. I.C.E. Jaime Mendoza Soto
+    Cuartel: [2]
+    Comisiones: []
+    Vacaciones: []
+    Servicios del mes anterior entresemana: 0
+    Servicios del mes anterior fin de semana: 0
+    
+-   Nombre: Cap. 1/o. I.C.E. Carlos Mendoza Sanchez
+    Cuartel: [7]
+    Comisiones: []
+    Vacaciones: []
+    Servicios del mes anterior entresemana: 0
+    Servicios del mes anterior fin de semana: 0
+
+-   Nombre: Tte. Trans. Luis Raymundo de Jesus Mixteco
+    Cuartel: [9]
+    Comisiones: [1,2,3,4,5,6]
+    Vacaciones: []
+    Servicios del mes anterior entresemana: 0
+    Servicios del mes anterior fin de semana: 0
+
+-   Nombre: Tte. Rep. Jose Luis Felix
+    Cuartel: [10]
+    Comisiones: [] 
+    Vacaciones: []
+    Servicios del mes anterior entresemana: 0
+    Servicios del mes anterior fin de semana: 0
+
+-   Nombre: Cap. 1/o. I.C.E. Fernando Alcantar Hernandez
+    Cuartel: [15]
+    Comisiones: [] 
+    Vacaciones: []
+    Servicios del mes anterior entresemana: 0
+    Servicios del mes anterior fin de semana: 0
+    
+-   Nombre: Cap. 1/o. I.C.E. Rafael Espinoza Reyes
+    Cuartel: [4]
+    Comisiones: [1]
+    Vacaciones: []
+    Servicios del mes anterior entresemana: 0
+    Servicios del mes anterior fin de semana: 0
